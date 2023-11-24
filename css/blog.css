@@ -1,0 +1,27 @@
+.faq {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.faq h1 {
+  text-align: center;
+}
+
+.faq-item {
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.faq-item h3 {
+  margin: 0;
+  padding: 10px;
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+
+.faq-item p {
+  margin: 0;
+  padding: 10px;
+  display: none;
+}
